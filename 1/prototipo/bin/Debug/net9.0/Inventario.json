@@ -1,0 +1,32 @@
+[
+  {
+    "nombreProducto": "Laptop ",
+    "CodigoProducto": 1,
+    "CantidadVenta": 9,
+    "PrecioUnitario": 15000
+  },
+  {
+    "nombreProducto": "Celular",
+    "CodigoProducto": 2,
+    "CantidadVenta": 12,
+    "PrecioUnitario": 9000
+  },
+  {
+    "nombreProducto": "Tablet",
+    "CodigoProducto": 3,
+    "CantidadVenta": 3,
+    "PrecioUnitario": 5000
+  },
+  {
+    "nombreProducto": "PC",
+    "CodigoProducto": 4,
+    "CantidadVenta": 10,
+    "PrecioUnitario": 15000
+  },
+  {
+    "nombreProducto": "Mause",
+    "CodigoProducto": 6,
+    "CantidadVenta": 20,
+    "PrecioUnitario": 500
+  }
+]

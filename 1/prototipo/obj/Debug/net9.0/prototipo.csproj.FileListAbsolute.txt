@@ -1,0 +1,14 @@
+C:\Users\denic\Downloads\1\prototipo\bin\Debug\net9.0\prototipo.exe
+C:\Users\denic\Downloads\1\prototipo\bin\Debug\net9.0\prototipo.deps.json
+C:\Users\denic\Downloads\1\prototipo\bin\Debug\net9.0\prototipo.runtimeconfig.json
+C:\Users\denic\Downloads\1\prototipo\bin\Debug\net9.0\prototipo.dll
+C:\Users\denic\Downloads\1\prototipo\bin\Debug\net9.0\prototipo.pdb
+C:\Users\denic\Downloads\1\prototipo\obj\Debug\net9.0\prototipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denic\Downloads\1\prototipo\obj\Debug\net9.0\prototipo.AssemblyInfoInputs.cache
+C:\Users\denic\Downloads\1\prototipo\obj\Debug\net9.0\prototipo.AssemblyInfo.cs
+C:\Users\denic\Downloads\1\prototipo\obj\Debug\net9.0\prototipo.csproj.CoreCompileInputs.cache
+C:\Users\denic\Downloads\1\prototipo\obj\Debug\net9.0\prototipo.dll
+C:\Users\denic\Downloads\1\prototipo\obj\Debug\net9.0\refint\prototipo.dll
+C:\Users\denic\Downloads\1\prototipo\obj\Debug\net9.0\prototipo.pdb
+C:\Users\denic\Downloads\1\prototipo\obj\Debug\net9.0\prototipo.genruntimeconfig.cache
+C:\Users\denic\Downloads\1\prototipo\obj\Debug\net9.0\ref\prototipo.dll
